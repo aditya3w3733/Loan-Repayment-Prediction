@@ -2,4 +2,5 @@
 Machine Learning Digital Assessment 
 
 Loan Repayment Prediction
-Additional funcitonalities like KNN, Logistic Regression, Naive Bayes, PCA for predicting more accurate output.
+
+Additional functionalities added such as  KNN, Logistic Regression, Naive Bayes, PCA for more accurate prediction.
