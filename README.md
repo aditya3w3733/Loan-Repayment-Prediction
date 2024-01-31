@@ -1,6 +1,3 @@
-# Machine-Learning-Theory-DA-20MIC0037
-Machine Learning Digital Assessment 
+# Loan Repayment Prediction
 
-Loan Repayment Prediction
-
-Additional functionalities added such as  KNN, Logistic Regression, Naive Bayes, PCA for more accurate prediction.
+This is a machine learning project that aims to predict whether a loan applicant is likely to repay their loan or not. The project utilizes a dataset of historical loan applications, including information such as loan amount, interest rate, credit score, employment history, and other related variables. 
